@@ -1,0 +1,1 @@
+# Identifica o endpoint (post/predict) e chama o service
